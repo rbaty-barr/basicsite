@@ -9,4 +9,9 @@ This project will contain a basic foundation for naming conventions and sample f
   * setup/config
   * scripting
 4. Hero Space
+5. News
+6. FAQs
+  * random faq for home and/or interior pages
+7. Glossary
+8. Site Alerts
 
