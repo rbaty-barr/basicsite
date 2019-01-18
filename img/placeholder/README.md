@@ -1,0 +1,2 @@
+# About the files in this folder
+These a generic placeholders that will allow your scripts to easily run without needed media picker setups, etc. these will be referenced as the default images for the various starter kit features found in this git repo.
