@@ -3,4 +3,4 @@
 2. Various placeholder images
 
 ## Icons
-I recomend this site for generating the full range of icons needed for our sites [favic-o-matic](http://www.favicomatic.com/)
+I recomend [favic-o-matic](http://www.favicomatic.com/) for generating the full range of icons needed for our sites 
